@@ -1,3 +1,3 @@
 # Merdiven
-Closes Cheat Detection.
+Closes Cheat Detection. <br>
 Hile Algılamasını Kapatır.
